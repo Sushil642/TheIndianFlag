@@ -1,0 +1,23 @@
+#safforn
+  {
+    height: 200px;
+    width: 900px;
+    background-color: #ff9a2f;
+  }
+  #white
+  {
+    height: 200px;
+    width: 900px;
+    background-color: #ffffff;
+  }
+  #green
+  {
+    height: 200px;
+    width: 900px;
+    background-color: #0a8901;
+  }
+  #white>img{
+    position: relative;
+    top: 25px;
+    left: 375px;
+  }
